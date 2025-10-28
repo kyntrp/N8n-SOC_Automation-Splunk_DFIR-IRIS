@@ -3,7 +3,7 @@
 ## **Overview**
 
 
-This project demonstrates how to build a SOC automation pipeline that detects suspicious activity on Windows endpoints, forwards telemetry to Splunk, and automates enrichment and triage using n8n, Slack, AbuseIPDB, and DFIR IRIS.
+This project demonstrates how to build a SOC automation pipeline that detects suspicious activity on Windows endpoints, forwards telemetry to Splunk, and automates enrichment and triage using n8n, Slack, AbuseIPDB, DFIR IRIS, and Airtable.
 The workflow simulates adversary techniques with Atomic Red Team, generates alerts in Splunk, and forwards them via webhook to n8n for automated enrichment, case creation, and reporting.
 
 
